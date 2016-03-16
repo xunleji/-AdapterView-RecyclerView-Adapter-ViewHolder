@@ -139,7 +139,7 @@ containing a value of this type.
           attribute's value can be found in the {@link #RecyclerView} array.
           @attr name android:orientation
         */
-        public static final int RecyclerView_android_orientation = 0;
+        public static int RecyclerView_android_orientation = 0;
         /**
           <p>
           @attr description
@@ -163,7 +163,7 @@ containing a value of this type.
           <p>This is a private symbol.
           @attr name android.support.v7.recyclerview:layoutManager
         */
-        public static final int RecyclerView_layoutManager = 1;
+        public static int RecyclerView_layoutManager = 1;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.recyclerview.R.attr#reverseLayout}
           attribute's value can be found in the {@link #RecyclerView} array.
@@ -177,7 +177,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.recyclerview:reverseLayout
         */
-        public static final int RecyclerView_reverseLayout = 3;
+        public static int RecyclerView_reverseLayout = 3;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.recyclerview.R.attr#spanCount}
           attribute's value can be found in the {@link #RecyclerView} array.
@@ -191,7 +191,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.recyclerview:spanCount
         */
-        public static final int RecyclerView_spanCount = 2;
+        public static int RecyclerView_spanCount = 2;
         /**
           <p>This symbol is the offset where the {@link android.support.v7.recyclerview.R.attr#stackFromEnd}
           attribute's value can be found in the {@link #RecyclerView} array.
@@ -205,6 +205,6 @@ theme attribute (in the form
 containing a value of this type.
           @attr name android.support.v7.recyclerview:stackFromEnd
         */
-        public static final int RecyclerView_stackFromEnd = 4;
+        public static int RecyclerView_stackFromEnd = 4;
     };
 }
