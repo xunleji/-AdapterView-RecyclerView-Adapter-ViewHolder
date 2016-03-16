@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Dec 14 16:46:02 CST 2015
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=Retrofit2.0.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<po|RetrofitDemo>~com/;<jar|android-support-v4.jar>
+includes=
